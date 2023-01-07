@@ -1,3 +1,3 @@
 Java file
 
-This file is available in qa branch
+This file is available in main branch
