@@ -1,3 +1,3 @@
-Hi I am fine
-Hello, I am in development branch
+Hi, I am fine
+Hello , This file is created in qa branch
 Hello guys git commands are important
